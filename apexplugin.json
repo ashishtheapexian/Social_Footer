@@ -1,0 +1,33 @@
+{
+  "name" : "Social Footer",
+  "version" : "1.0",
+  "description" : "Oracle APEX Region Plugin for Social Footer",
+  "keywords" : ["PlugIn", "Report","Footer","resonsive","Apex","Region", "social"],
+  "homepage" : "https://github.com/ashishtheapexian/Social_Footer",
+  "bugs" : {
+    "url" : "https://github.com/ashishtheapexian/Social_Footer/issues",
+    "email" : "ashishk392@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Ashish Sahay",
+    "email" : "ashishk392@gmail",
+    "url" : "https://www.ashishsahay.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ashishtheapexian/Social_Footer.git"
+  },
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["19.2.0"],
+      "plugin" : {
+        "internalName" : "SOCIAL_FOOTER",
+        "type" : "region",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=93690:8:",
+        "previewImage" : "https://raw.githubusercontent.com/ashishtheapexian/accordian/master/preview.gif"
+      }
+    }
+  }
+}
