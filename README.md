@@ -5,11 +5,12 @@ Social Footer for Apex
 
 SQL Query
 
-'#LINK_TEXT#'
-'#LINK_URL#'
-'#ICON#'
+#LINK_TEXT#<br>
+#LINK_URL#<br>
+#ICON# <br>
 
 #Examples
+<pre>
 Select '#' LINK_URL, 'Facebook' LINK_TEXT, 'fa-facebook' ICON FROM DUAL
 UNION 
 Select '#' LINK_URL, 'Twitter' LINK_TEXT, 'fa-twitter' ICON FROM DUAL
@@ -17,3 +18,4 @@ UNION
 Select 'https://www.github.com' LINK_URL, 'GITHub' LINK_TEXT, 'fa-github' ICON FROM DUAL
 UNION
 Select 'https://www.google.com' LINK_URL, 'Google' LINK_TEXT, 'fa-google' ICON FROM DUAL
+</pre>
