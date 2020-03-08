@@ -21,3 +21,5 @@ Select 'https://www.google.com' LINK_URL, 'Google' LINK_TEXT, 'fa-google' ICON F
 </pre>
 
 <a href="https://apex.oracle.com/pls/apex/f?p=93690:8:"> Demo</a>
+
+<a href="https://www.ashishsahay.com/2020/02/social-footer-oracle-apex.html">Blog</a>
