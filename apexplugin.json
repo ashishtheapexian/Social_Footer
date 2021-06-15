@@ -21,7 +21,7 @@
  "oracle" : {
     "versions" : ["11.2.0.1", "12.1.0.1"],
     "apex" : {
-      "versions" : ["19.2.0"],
+      "versions" : ["19.2", "20.1", "21.1"],
       "plugin" : {
         "internalName" : "SOCIAL_FOOTER",
         "type" : "region",
